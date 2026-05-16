@@ -1,1 +1,1 @@
-Conflict line: base
+Conflict line: version A
