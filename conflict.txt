@@ -1,1 +1,1 @@
-Conflict line: version B
+Conflict line: resolved version
